@@ -14,5 +14,3 @@
  ## 🎒 Mochila
 
  ## ⚔ Equipamentos
-
-a
