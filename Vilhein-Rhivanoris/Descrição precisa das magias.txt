@@ -1,0 +1,22 @@
+3º Bola de Fogo
+45m de alcance
+Área de efeito 6x6
+Os afetados fazem um teste de resistência à Destreza,
+se passarem tomam metade do dano.
+8d6
+
+3º Padrão Hipnótico
+36m de alcance
+Área de efeito cubo 9m
+Os afetados fazem um teste de resistêncoa à Sabedoria,
+se falharem, criatura fica incapacitada e deslocamento 0
+
+1º Mãos Flamejantes
+1 cone 4,5m
+
+1º Detectar Magia
+
+1º Compreender Idiomas
+
+2º Alterar-se
+Armas naturais mágicas 1d6+1
